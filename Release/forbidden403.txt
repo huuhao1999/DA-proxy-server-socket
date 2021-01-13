@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+<center>
+<table border="10" cellpadding="20" cellspacing="5">
+<tr>
+<td>
+<b>
+<span style="font-size:60px;color: red">403<span style="font-size:40px;color: black"> Forbidden<BR>
+</b>
+<span style="font-size:20px;color: black">You cannot access this website</span>
+</td>
+</tr>
+</table>
+</center>
+</body>
+</html>

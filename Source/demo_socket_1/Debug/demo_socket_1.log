@@ -1,0 +1,20 @@
+﻿Build started 6/26/2019 11:18:19 PM.
+     1>Project "F:\Test\1712419_1712837_1712827_1712844\Source\demo_socket_1\demo_socket_1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\demo_socket_1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt demo_socket_1.cpp
+         demo_socket_1.cpp
+     1>f:\test\1712419_1712837_1712827_1712844\source\demo_socket_1\demo_socket_1.cpp(17): warning C4005: 'BUFFERSIZE' : macro redefinition
+                 f:\test\1712419_1712837_1712827_1712844\source\demo_socket_1\demo_socket_1.h(92) : see previous definition of 'BUFFERSIZE'
+     1>f:\test\1712419_1712837_1712827_1712844\source\demo_socket_1\demo_socket_1.cpp(155): warning C4129: 'I' : unrecognized character escape sequence
+     1>f:\test\1712419_1712837_1712827_1712844\source\demo_socket_1\demo_socket_1.cpp(374): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\test\1712419_1712837_1712827_1712844\source\demo_socket_1\demo_socket_1.cpp(434): warning C4553: '==' : operator has no effect; did you intend '='?
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Test\1712419_1712837_1712827_1712844\Source\Debug\demo_socket_1.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\Test\1712419_1712837_1712827_1712844\Source\Debug\demo_socket_1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Test\1712419_1712837_1712827_1712844\Source\Debug\demo_socket_1.lib" /MACHINE:X86 Debug\demo_socket_1.res
+         Debug\demo_socket_1.obj
+         Debug\stdafx.obj
+         demo_socket_1.vcxproj -> F:\Test\1712419_1712837_1712827_1712844\Source\Debug\demo_socket_1.exe
+     1>Done Building Project "F:\Test\1712419_1712837_1712827_1712844\Source\demo_socket_1\demo_socket_1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.58
